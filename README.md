@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Eu sou Álvaro Davi, entusiasta em programação</h2>
+<h2 align="left">Hi! I am Álvaro Davi</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">- FullStack Web Developer<br>- Studant<br>- Trainee TITAN</p>
+<p align="left">- FullStack Web Developer<br>- Studant<br>- Web Developer - TITAN</p>
 
 ###
 
